@@ -2,18 +2,18 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.techviewteam.elearning"
         versionCode = "36000"
         android-versionCode="36000"
         version   = "3.6.0">
-    <name>Moodle</name>
+    <name>E_Learning</name>
 
     <description>
-        Moodle official app
+        E-Learning official app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="http://techviewteam.xyz" email="help@techviewteam.xyz">
+        E-Learning Mobile team
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
