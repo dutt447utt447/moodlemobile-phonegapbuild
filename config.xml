@@ -6,7 +6,7 @@
         versionCode = "10000"
         android-versionCode="100000"
         version   = "1.0.0">
-    <name>learning</name>
+    <name>Moodle</name>
 
     <description>
         E-Learning official app
