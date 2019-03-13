@@ -6,7 +6,7 @@
         versionCode = "1"
         
         version   = "1.0">
-    <name>Moodle</name>
+    <name>Learning</name>
 
     <description>
         E-Learning official app
@@ -136,7 +136,7 @@
     <gap:plugin name="cordova-plugin-badge" source="npm" spec="0.8.8" />
     <gap:plugin name="cordova-plugin-camera" source="npm" spec="4.0.3" />
     <gap:plugin name="cordova-plugin-customurlscheme" source="npm" spec="4.3.0">
-        <param name="URL_SCHEME" value="learningmobile" />
+        <param name="URL_SCHEME" value="Learning" />
     </gap:plugin>
     <gap:plugin name="cordova-plugin-device" source="npm" spec="2.0.2" />
     <gap:plugin name="cordova-plugin-file" source="npm" spec="6.0.1" />
@@ -159,7 +159,7 @@
         <param name="SENDER_ID" value="694767596569" />
     </gap:plugin>
 
-    <edit-config file="AndroidManifest.xml" target="/manifest/application/activity[@android:name='Moodle']" mode="merge">
+    <edit-config file="AndroidManifest.xml" target="/manifest/application/activity[@android:name='Learning']" mode="merge">
         <activity android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|screenLayout|smallestScreenSize" android:debuggable="true"></activity>
     </edit-config>
 
