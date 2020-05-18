@@ -2,18 +2,18 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "net.learning.moodlemobile"
+        id        = "net.techview.moodlemobile"
         versionCode = "1"
         
         version   = "1.0">
-    <name>Learning</name>
+    <name>TechView</name>
 
     <description>
-        E-Learning official app
+        TechView official app
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
-        E-Learning Mobile team
+        TechView Mobile team
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
@@ -136,7 +136,7 @@
     <gap:plugin name="cordova-plugin-badge" source="npm" spec="0.8.8" />
     <gap:plugin name="cordova-plugin-camera" source="npm" spec="4.0.3" />
     <gap:plugin name="cordova-plugin-customurlscheme" source="npm" spec="4.3.0">
-        <param name="URL_SCHEME" value="Learning" />
+        <param name="URL_SCHEME" value="Techview" />
     </gap:plugin>
     <gap:plugin name="cordova-plugin-device" source="npm" spec="2.0.2" />
     <gap:plugin name="cordova-plugin-file" source="npm" spec="6.0.1" />
