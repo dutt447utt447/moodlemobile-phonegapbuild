@@ -1,7 +1,7 @@
 {
-    "app_id": "com.learning.moodlemobile",
-    "appname": "Learning",
-    "desktopappname": "Learning Desktop",
+    "app_id": "com.techview.moodlemobile",
+    "appname": "TechView",
+    "desktopappname": "TechView Desktop",
     "versioncode": 1000,
     "versionname": "1.0.0-dev",
     "cache_expiration_time": 300000,
@@ -65,7 +65,7 @@
         }
     },
     "gcmpn": "694767596569",
-    "customurlscheme": "learningmobile",
+    "customurlscheme": "techviewmobile",
     "siteurl": "https://www.techviewteam.com",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
