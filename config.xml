@@ -48,7 +48,7 @@
     <preference name="webviewbounce"    value="false" />
     <preference name="prerendered-icon" value="true" />
     <preference name="load-url-timeout" value="60000" />
-    <preference name="AppendUserAgent" value="learningmobile" />
+    <preference name="AppendUserAgent" value="techviewmobile" />
     <preference name="android-minSdkVersion" value="19" />
     <preference name="android-targetSdkVersion" value="26" />
     <preference name="android-installLocation" value="auto" />
